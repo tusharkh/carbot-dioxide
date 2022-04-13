@@ -1,2 +1,2 @@
-# carbot-dioxide
-A python version of Clayton Aldern's carbot-dioxide twitter bot
+# Carbot Dioxide
+I'm trying to practice making twitter bots with pretty data visualizations. Here I attempt to build out a python version of [Clayton Aldern's Carbot Dioxide](https://github.com/clayton-aldern/co2-bot) twitter bot (which is written in R). If I'm ambitious, I might try to mimic the Grist-like style or create a gristify function in python. Idea credits of course go to Clayton Aldern(https://github.com/clayton-aldern/) and [Grist](https://grist.org/).
