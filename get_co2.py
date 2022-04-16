@@ -57,7 +57,7 @@ LABEL_SIZE = 20
 
 TITLE = "Carbon dioxide: current global average"
 SUBTITLE = "Atmospheric CO$_{2}$, parts per million"
-CAPTION = ("Source: NOAA/ESRL | Graphic + Bot: Clayton Aldern (@compatibilism) | Generated: " +
+CAPTION = ("Source: NOAA/ESRL | Graphic: Tushar Khurana (credit: Clayton Aldern) | Generated: " +
            pd.Timestamp.today().strftime('%B %d, %Y'))
 
 # make the figure
